@@ -3,7 +3,7 @@
   "@type": "SoftwareSourceCode",
   "name": "PMS-CausalBrainModel",
   "description": "The PMS-CausalBrainModel software is a neurocomputational tool designed to analyze resting-state fMRI data in patients with disorders of consciousness (DoC) and healthy individuals. It integrates model-free methods to extract probabilistic metastable substates (PMS) that characterize brain dynamics, and model-based simulations using a whole-brain causal model to assess how perturbations influence state transitions. This software enables in silico probing of brain networks, estimating regional sensitivity to stimulation and identifying key targets for therapeutic intervention. It supports research in network neuroscience, neurorehabilitation, and the development of model-based biomarkers for DoC.",
-  "codeRepository": "https://github.com/decolab/Awakening_Coma_2023",
+  "codeRepository": "https://github.com/decolab/dagnino_awakening_coma",
   "dateCreated": "2025-05-03",
   "license": "https://spdx.org/licenses/CC-BY-NC-4.0",
   "applicationCategory": "Neuroscience",
