@@ -1,0 +1,1 @@
+Code used in the article: Dagnino PC, Escrichs A, López-González A, Gosseries O, Annen J, Sanz Perl Y, Kringelbach ML, Laureys S, Deco G. Re-awakening the brain: Forcing transitions in disorders of consciousness by external in silico perturbation. PLoS Comput Biol. 2024 May 3;20(5):e1011350. https://doi.org/10.1371/journal.pcbi.1011350
