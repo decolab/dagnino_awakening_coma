@@ -1,0 +1,42 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "PMS-CausalBrainModel",
+  "description": "This repository provides the MATLAB implementation of two complementary computational tools—the Leading Eigenvector Dynamics Analysis (LEiDA) framework and the whole-brain Hopf model—used in the study *“Re-awakening the brain: Forcing transitions in disorders of consciousness by external in silico perturbation”* (Dagnino et al., 2024, PLoS Computational Biology).\n\nThe study investigates dynamic brain state transitions in patients with disorders of consciousness (DoC), such as unresponsive wakefulness syndrome (UWS) and minimally conscious state (MCS), using both model-free and model-based approaches.\n\nThe LEiDA framework captures probabilistic metastable substates (PMS) from empirical resting-state fMRI to characterize diagnostic categories. The Hopf-based whole-brain model simulates large-scale brain dynamics constrained by structural and functional connectivity, allowing in silico perturbation protocols to evaluate regional sensitivity and transition likelihood between low- and high-consciousness states.\n\nThis work supports mechanistic insights into consciousness recovery and computational neurostimulation strategies.\n\nFor code structure and usage instructions, please refer to the full [README.md](https://github.com/decolab/reawakening_DoC/blob/main/README.md) (https://github.com/decolab/reawakening_DoC/blob/main/README.md).",
+  "codeRepository": "https://github.com/decolab/dagnino_awakening_coma",
+  "downloadUrl": "https://github.com/decolab/dagnino_awakening_coma/releases/tag/v1.0.0",
+  "dateCreated": "2025-05-03",
+  "datePublished": "2025-06-25",
+  "version":"1.0.0",
+  "license": "https://spdx.org/licenses/CC-BY-NC-4.0",
+  "applicationCategory": "Neuroscience",
+  "keywords": [
+    "probabilistic metastable substates",
+    "whole-brain model",
+    "in silico perturbation",
+    "disorders of consciousness",
+    "resting-state fMRI",
+    "causal modeling"
+  ],
+  "programmingLanguage": [
+    {
+      "@type": "ComputerLanguage",
+      "name": "MATLAB"
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "givenName": "Paula Clara",
+    "familyName": "Dagnino",
+    "email": "paulinaclara.dagnino@upf.edu",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "University Pompeu Fabra"
+    },
+    "identifier": "https://orcid.org/0000-0000-0000-0000"
+  },
+  "referencePublication": {
+    "@type": "ScholarlyArticle",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011350"
+  }
+}
