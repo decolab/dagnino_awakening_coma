@@ -13,9 +13,9 @@ This study explores the probabilistic metastable substates (PMS) of different di
 ## Purpose & Scope
 
 - Model transitions between low- and high-consciousness brain states via in silico perturbations.
-- Simulate whole-brain activity using effective connectivity derived from empirical fMRI and structural connectomes.
+- Simulate whole-brain activity derived from empirical fMRI and structural connectomes.
 - Assess perturbation outcomes across diagnostic categories (e.g., UWS, MCS).
-- Investigate the regional sensitivity to perturbation that is driving the transition.
+- Investigate the regional sensitivity to perturbation.
 
 ---
 
@@ -28,7 +28,7 @@ This study explores the probabilistic metastable substates (PMS) of different di
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - MATLAB R2018a or later
 - resting-state fMRI and dMRI connectome matrices (preprocessed and in time series format)
