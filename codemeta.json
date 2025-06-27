@@ -2,16 +2,7 @@
   "@context": "https://w3id.org/codemeta/3.0",
   "@type": "SoftwareSourceCode",
   "name": "PMS-CausalBrainModel",
-  "description": "This repository provides the MATLAB implementation of two complementary computational tools—the Leading Eigenvector Dynamics Analysis (LEiDA) framework\n"
-  "and the whole-brain Hopf model—used in the study *“Re-awakening the brain: Forcing transitions in disorders of consciousness by external in silico perturbation”*\n"
-  "(Dagnino et al., 2024, PLoS Computational Biology).\n"
-  "The study investigates dynamic brain state transitions in patients with disorders of consciousness (DoC),\n"
-  "including unresponsive wakefulness syndrome (UWS) and minimally conscious state (MCS), using both model-free and model-based approaches.\n"
-  "The LEiDA framework extracts probabilistic metastable substates (PMS) from empirical resting-state fMRI data to characterize clinical phenotypes.\n"
-  "The Hopf whole-brain model simulates large-scale dynamics informed by structural and functional connectivity,\n"
-  "enabling in silico perturbation to evaluate regional sensitivity and transitions between low- and high-consciousness states.\n"
-  "This work supports mechanistic insights into consciousness recovery and the design of computational neurostimulation strategies.\n"
-  "For code structure and usage instructions, see the full README file: [README.md](https://github.com/decolab/reawakening_DoC/blob/main/README.md) (https://github.com/decolab/reawakening_DoC/blob/main/README.md)"
+  "description": "This repository provides the MATLAB implementation of two complementary computational tools—the Leading Eigenvector Dynamics Analysis (LEiDA) framework\nand the whole-brain Hopf model—used in the study *“Re-awakening the brain: Forcing transitions in disorders of consciousness by external in silico perturbation”* (Dagnino et al., 2024, PLoS Computational Biology).\nThe study investigates dynamic brain state transitions in patients with disorders of consciousness (DoC), including unresponsive wakefulness syndrome (UWS) and minimally conscious state (MCS), using both model-free and model-based approaches.\nThe LEiDA framework extracts probabilistic metastable substates (PMS) from empirical resting-state fMRI data to characterize clinical phenotypes.\nThe Hopf whole-brain model simulates large-scale dynamics informed by structural and functional connectivity,\nenabling in silico perturbation to evaluate regional sensitivity and transitions between low- and high-consciousness states.\nThis work supports mechanistic insights into consciousness recovery and the design of computational neurostimulation strategies.\nFor code structure and usage instructions, see the full README file: [README.md](https://github.com/decolab/reawakening_DoC/blob/main/README.md) (https://github.com/decolab/reawakening_DoC/blob/main/README.md)",
   "codeRepository": "https://github.com/decolab/dagnino_awakening_coma",
   "downloadUrl": "https://github.com/decolab/dagnino_awakening_coma/releases/tag/v1.0.0",
   "dateCreated": "2025-05-03",
